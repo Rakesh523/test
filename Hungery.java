@@ -7,6 +7,7 @@ public class Hungery{
 	}
 	public static void addedThrestyBranch(){
 		System.out.println("Thresry Branch is created And You are in thresty Branch");
+		System.out.println("Added One More Line");
 	}
 	public static void main(String [] args){
 		System.out.println("I am hungery...!!!");
