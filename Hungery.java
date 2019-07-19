@@ -5,9 +5,13 @@ public class Hungery{
 		System.out.println("Sum Of A And B Is :: "+c);
 		System.out.println("Added Something New");
 	}
+	public static void addedThrestyBranch(){
+		System.out.println("Thresry Branch is created And You are in thresty Branch");
+	}
 	public static void main(String [] args){
 		System.out.println("I am hungery...!!!");
 		add(10,20);
+		addedThrestyBranch();
 		System.out.println("Added Something New");
 		System.out.println("Want More UnWanted Code");
 	}
