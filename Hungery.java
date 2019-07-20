@@ -16,5 +16,7 @@ public class Hungery{
 		System.out.println("Added Something New");
 		System.out.println("Want More UnWanted Code");
 		System.out.println("This is master branch");
+		System.out.println("Burger");
+
 	}
 }
