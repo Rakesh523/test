@@ -1,6 +1,6 @@
 public class Hungery{
 	public static void add(int a , int b){
-		int c=0;
+		int c=0,e=0;
 		c=a+b;
 		System.out.println("Sum Of A And B Is :: "+c);
 		System.out.println("Added Something New");
